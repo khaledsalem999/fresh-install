@@ -7,7 +7,7 @@ choco install googlechrome -fy
 choco install firefox -fy
 
 :::: Text editors / IDEs
-choco install visualstudiocode -fy
+choco install vscode -fy
 choco install intellijidea-community -fy
 choco install webstorm -fy
 
