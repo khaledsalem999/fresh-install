@@ -26,6 +26,7 @@ choco install docker-desktop -fy
 choco install vlc -fy
 
 :::: Utilities + other
+choco install zoom
 choco install 7zip.install -fy
 choco install office365proplus -fy
 choco install discord -fy
